@@ -1,0 +1,2 @@
+# Placeholder for charging animation
+# Replace with actual Lottie JSON file from LottieFiles or create custom animation
